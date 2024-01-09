@@ -16,13 +16,15 @@ Leandro Küng
 
 ## 16.1 und 23.1.2024
 
+- [ ] Strings einfügen. Das Programm soll einen String speichern können
+- [ ] String, dass ich die Session eintragen kann, welchen Sport ich gemacht habe und wie lange sie gedauert hat.
+- [ ] Das ich eine Liste mache, in der meine Trainingsessions eingetragen werden.
 - [ ] 
-- [ ] ...
-- [ ] Viertes AP
+
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
+| 1              |     C# geöffnet      |                |                |          |
 | ...            |                      |                |                |          |
 | 4              |                      |                |                |          |
 
