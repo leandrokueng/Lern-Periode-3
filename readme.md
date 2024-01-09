@@ -38,15 +38,17 @@ Leandro Küng
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-
-- [ ] Achtes AP
+- [ ] Der Tracker soll neue Ziele ausgeben können.
+- [ ] Der Tracker soll die Leistungen erkennnen.
+- [ ] Der Tracker soll ein höheres Ziel herausgeben.
+- [ ] Der Tracker soll jemanden Loben wenn man sich verbessert hat.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
-| ...             |                      |                |                |          |
+| 5               | Die erreichten Ziele |                |                |          |
+| 6               | mehrere eingegeben   |                |                |          |
+                    Leistungen                     
+| 7               |                      |                |                |          |  
 | 8               |                      |                |                |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
