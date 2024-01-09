@@ -16,17 +16,21 @@ Leandro Küng
 
 ## 16.1 und 23.1.2024
 
-- [ ] Strings einfügen. Das Programm soll einen String speichern können
+- [ ] Strings einfügen. Das Programm soll einen String speichern können.
 - [ ] String, dass ich die Session eintragen kann, welchen Sport ich gemacht habe und wie lange sie gedauert hat.
 - [ ] Das ich eine Liste mache, in der meine Trainingsessions eingetragen werden.
-- [ ] 
+- [ ] Speichern damit ich die Sessions vergleichen kann.
 
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
 | 1              |     C# geöffnet      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
+| 2              |     C# geöffnet      |                |                |          |
+| 3              |     Strings müssen   |                |                |          | 
+|                |     geschrieben sein |                |                |          |
+| 4              |     Strings müssen   |                |                |          | 
+                      eingegeben sein
+
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
