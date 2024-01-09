@@ -1,14 +1,14 @@
 # Lern-Periode 3
 
-Max Muster
+Leandro Küng
 
 9.1.2024 bis 30.1.2024 (☃️ Sportferien)
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+1. Ich habe gute Noten. Im Modul 319 eine 5 und im Modul 431 eine 5,5. Die Note für das Modul 162 haben wir noch nicht bekommen.
+2. Ich habe mir vorgenommen, dass ich effizienter arbeite. Ich nehme mir vor, mehr Pausen einbauen aber die Pausen kürzen. Wenn ich mehr Pausen mache und sie besser einteile, kann ich glaube ich effizienter arbeiten. 
+3. Ich nehme mir vor einen Training-Tracker zu programmieren. 
 
 ## 9.1.2024
 
@@ -16,7 +16,7 @@ Max Muster
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
+- [ ] 
 - [ ] ...
 - [ ] Viertes AP
 
