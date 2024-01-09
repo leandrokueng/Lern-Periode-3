@@ -12,7 +12,7 @@ Leandro Küng
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich geschaut, welches Programmierprojekt ich bearbeiten will und um was es gehen soll. Es passt gut und ich kann es sicher auch gebrauchen weil ich selber sehr oft Sport mache. Es kann mir also im Leben sehrwahrscheinlich weiterhelfen und es hat einen grossen Nutzen. 
 
 ## 16.1 und 23.1.2024
 
