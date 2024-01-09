@@ -46,10 +46,10 @@ Leandro Küng
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 5               | Die erreichten Ziele |                |                |          |
-| 6               | mehrere eingegeben   |                |                |          |
-                    Leistungen                     
-| 7               |                      |                |                |          |  
-| 8               |                      |                |                |          |
+| 6               | mehrere Leistungen   |                |                |          |
+|                 | eingegeben           |                |                |          |                  
+| 7               | alten Ziele          |                |                |          |  
+| 8               | alle Trainings       |                |                |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
