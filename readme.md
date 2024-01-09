@@ -29,7 +29,7 @@ Leandro Küng
 | 3              |     Strings müssen   |                |                |          | 
 |                |     geschrieben sein |                |                |          |
 | 4              |     Strings müssen   |                |                |          | 
-                      eingegeben sein
+|                |     eingegeben sein  |                |                |          |  
 
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
