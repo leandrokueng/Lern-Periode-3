@@ -24,17 +24,93 @@ Leandro Küng
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |     C# geöffnet      |                |                |          |
-| 2              |     C# geöffnet      |                |                |          |
-| 3              |     Strings müssen   |                |                |          | 
+| 1              |     C# geöffnet      |                |                |    x     |
+| 2              |     C# geöffnet      |                |                |    x     |
+| 3              |     Strings müssen   |                |                |    x     | 
 |                |     geschrieben sein |                |                |          |
-| 4              |     Strings müssen   |                |                |          | 
+| 4              |     Strings müssen   |                |                |    x     | 
 |                |     eingegeben sein  |                |                |          |  
 
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Mit meinem Trainingtracker angefangen und er funktioniert bis jetzt gut. Es ist schon fertig aber ich will die anderen Anforderungen noch in den Trainingtracker einbauen. Ich habe nicht alles allein gemacht und ich habe paar mal im Internet nachegeschaut aber mit dem Internet konnte ich meine Probleme lösen. Ich konnte gut arbeiten, weil ich zuhause in Ruhe an 2 Monitoren gearbeitet habe und ich mich gut auf meine Arbeit konzentrieren konnte. Ich bin sehr voran gekommen.(50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+using System;
+using System.Collections.Generic;
+
+class TrainingTracker
+{
+    static void Main()
+    {
+        List<string> trainingSessions = new List<string>();
+
+        while (true)
+        {
+            Console.WriteLine("Training Tracker");
+            Console.WriteLine("1. Trainingseintrag hinzufügen");
+            Console.WriteLine("2. Gespeicherte Sessions anzeigen");
+            Console.WriteLine("3. Beenden");
+
+            Console.Write("Auswahl: ");
+            string choice = Console.ReadLine();
+
+            switch (choice)
+            {
+                case "1":
+                    AddTrainingEntry(trainingSessions);
+                    break;
+                case "2":
+                    DisplayTrainingSessions(trainingSessions);
+                    break;
+                case "3":
+                    Environment.Exit(0);
+                    break;
+                default:
+                    Console.WriteLine("Ungültige Eingabe. Bitte wähle eine der Optionen aus.");
+                    break;
+            }
+        }
+    }
+
+    static void AddTrainingEntry(List<string> sessions)
+    {
+        Console.Write("Sportart: ");
+        string sport = Console.ReadLine();
+
+        Console.Write("Dauer (in Minuten): ");
+        int duration;
+        while (!int.TryParse(Console.ReadLine(), out duration) || duration <= 0)
+        {
+            Console.WriteLine("Ungültige Eingabe. Bitte gib eine positive Ganzzahl ein.");
+            Console.Write("Dauer (in Minuten): ");
+        }
+
+        string sessionEntry = $"{DateTime.Now}: {sport}, Dauer: {duration} Minuten";
+        sessions.Add(sessionEntry);
+
+        Console.WriteLine("Trainingseintrag hinzugefügt:\n" + sessionEntry);
+        Console.WriteLine();
+    }
+
+    static void DisplayTrainingSessions(List<string> sessions)
+    {
+        if (sessions.Count == 0)
+        {
+            Console.WriteLine("Keine Trainingssessions vorhanden.");
+        }
+        else
+        {
+            Console.WriteLine("Gespeicherte Trainingssessions:");
+
+            foreach (var session in sessions)
+            {
+                Console.WriteLine(session);
+            }
+        }
+
+        Console.WriteLine();
+    }
+}
 
 ## 23.1.2024
 
