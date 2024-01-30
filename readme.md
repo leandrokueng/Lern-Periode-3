@@ -235,12 +235,8 @@ class TrainingTracker
     }
 }
 
-## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
-
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+In dieser Lernperiode habe ich die Arbeit sehr angemessen gefunden. Es hat sich viel verbessert im gegensatz zu der Lernperiode 2 weil die arbeit angenehmer war. Ich konnte viel zu Hause an meinen zwei Bildschirmen arbeiten und ich kam sehr gut voran. Ich habe neue Begriffe in C# kennengelernt auch mit hilfe vom Internet. Es war nicht immer einfach im Distanzunterricht zu arbeiten, weil man keine Lehrperson hatte die einem helfen konnte, jedoch habe ich meist die Sachen die ich brauche auch im Internet geholfen und ich bin nie wirklich lange angestanden. ich konnte sehr schnell arbeiten und es hat auch gut funktioniert. 
